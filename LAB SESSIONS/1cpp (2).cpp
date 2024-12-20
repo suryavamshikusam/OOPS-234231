@@ -13,7 +13,7 @@ using namespace std;//All of the Standard C++ libraries are wrapped in a single 
 class test //creation of class
 {  string name;
    int regd_no;
-	;//member variable declared//not declared as public by default it is private.
+	//member variable declared//not declared as public by default it is private.
 	
 	public://
 	    void set(){//member functions
